@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"RecDieRollerDriver","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"RecDieRoller","l":"RecDieRoller()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"RecDieRollerDriver","l":"RecDieRollerDriver()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"RecDieRoller","l":"Roll(int)"}];updateSearchResults();
